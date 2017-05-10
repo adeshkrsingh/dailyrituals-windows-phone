@@ -1,0 +1,2 @@
+MainPackage=G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals_1.0.0.7_AnyCPU_Debug.appx
+SymbolPackage=G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\AppPackages\DailyRituals_1.0.0.7_Debug_Test\DailyRituals_1.0.0.7_AnyCPU_Debug.appxsym

@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="DailyRituals.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DailyRituals"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:valueconverter="using:DailyRituals.ValueConverters"
+    mc:Ignorable="d"
+    Background="SkyBlue">
+    <Page.Resources>
+        <valueconverter:IsCompleteToBooleanConverter x:Key="IsCompleteToBooleanConverter" />
+        <valueconverter:CompletedDatesToIntegerConverter x:Key="CompletedDatesToIntegerConverter" />
+    </Page.Resources>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' Icon="Add" Label="Add Ritual" Name="AddRitual"                        />
+            <AppBarButton x:ConnectionId='2' Icon="Delete" Label="Delete" Name="delCompletedRitual"                  />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <ScrollViewer>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="113" />
+                <RowDefinition Height="15" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Style="{StaticResource TitleTextBlockStyle}" FontSize="36" Margin="20,0,20,60" Text="--Progress Track--"/>
+            <TextBlock Style="{StaticResource TitleTextBlockStyle}" Foreground="SkyBlue" TextWrapping="Wrap" Margin="10,53,30,9">"Every Day do something that will inch you closer to a better tomorrow"</TextBlock>
+
+            <TextBlock Name="lastCompleted" Text="------------------------------------------------------------------------------------------------------------------" FontSize="12"/>
+
+            <Grid Grid.Row="2" Margin="20,10,20,-1.333" >
+
+                <Grid.Resources>
+                    <DataTemplate x:Name="dataTemplate">
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="{Binding Name}" FontSize="24" FontWeight="ExtraBold" TextWrapping="Wrap" Foreground="Red"></TextBlock>
+                            <TextBlock Text="{Binding Description}" TextWrapping="WrapWholeWords" FontSize="18"></TextBlock>
+                            <Button x:ConnectionId='3' Name="CompletedButton"                        
+                                Content="Completed Today!"
+                                                                 
+                                Command="{Binding CompletedCommand}"
+                                CommandParameter="{Binding}"
+                                IsEnabled="{Binding Dates, Converter={StaticResource IsCompleteToBooleanConverter}}"
+                                />
+                            <ProgressBar Value="{Binding Dates, Converter={StaticResource CompletedDatesToIntegerConverter}}"
+                                     Maximum="{Binding maxday}"
+                                     Minimum="0" />
+                            <TextBlock Name="lastCompleted" Text="{Binding lastmodified}" FontSize="12"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </Grid.Resources>
+
+
+                <ItemsControl x:Name="itemsControl" 
+                      ItemsSource="{Binding}" 
+                      ItemTemplate="{StaticResource dataTemplate}" Margin="0,0,0,5"/>
+                
+
+            </Grid>
+
+        </Grid>
+    </ScrollViewer>
+</Page>
+

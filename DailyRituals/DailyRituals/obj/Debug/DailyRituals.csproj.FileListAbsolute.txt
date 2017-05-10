@@ -1,0 +1,185 @@
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\App.xbf
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\resources.pri
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.xaml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.xbf
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\study\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\App.xbf
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\resources.pri
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.xaml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.xbf
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\windows phone\source codes\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\App.xbf
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\resources.pri
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.xaml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\App.xbf
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\App.xbf
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\resources.pri
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\App.xaml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\App.xbf
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\vstudio projects\Projects\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt

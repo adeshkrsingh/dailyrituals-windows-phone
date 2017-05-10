@@ -1,0 +1,20 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\split.pri"			"resources.pri"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\DailyRituals.xr.xml"			"DailyRituals.xr.xml"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\Wide310x150Logo.scale-240.png"			"Assets\Wide310x150Logo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\Square44x44Logo.scale-240.png"			"Assets\Square44x44Logo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\Square150x150Logo.scale-240.png"			"Assets\Square150x150Logo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"G:\vstudio projects\extracted codes\daily retuals\DailyRituals\DailyRituals\obj\Debug\PackageLayout\AddRitual.xbf"			"AddRitual.xbf"
